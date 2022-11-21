@@ -9,7 +9,7 @@ public class Menu {
         System.out.println("3- Toplam Paramı Gör");
         System.out.println("4- Çıkış Yap");
         System.out.print("Lütfen yapacağınız işlemi seçiniz? ;");
-
+ //deneme
 
     }
 
